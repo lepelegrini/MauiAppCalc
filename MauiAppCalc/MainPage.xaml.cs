@@ -4,6 +4,7 @@
     {
         public MainPage()
         {
+            InitializeComponent();
         }
 
         private void maismenos_Clicked(object sender, EventArgs e)
@@ -16,12 +17,12 @@
 
         }
 
-        private void porcento_Clicked(object sender, EventArgs e)
+        private void porcentagem_Clicked(object sender, EventArgs e)
         {
 
         }
 
-        private void dividir_Clicked(object sender, EventArgs e)
+        private void divisão_Clicked(object sender, EventArgs e)
         {
 
         }
@@ -41,7 +42,7 @@
 
         }
 
-        private void multiplica_Clicked_1(object sender, EventArgs e)
+        private void multiplicar_Clicked(object sender, EventArgs e)
         {
 
         }
@@ -61,27 +62,12 @@
 
         }
 
-        private void porcento_Clicked_1(object sender, EventArgs e)
-        {
-
-        }
-
         private void num1_Clicked(object sender, EventArgs e)
         {
 
         }
 
         private void num2_Clicked(object sender, EventArgs e)
-        {
-
-        }
-
-        private void num2_Clicked_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void num2_Clicked_2(object sender, EventArgs e)
         {
 
         }
